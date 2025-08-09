@@ -3,6 +3,8 @@ export const translations = {
     brandName: "Urban Threads",
     descBrandName:
       "Discover timeless elegance with our curated collection of premium clothing and accessories.",
+    category: "Category",
+    priceRange: "Price Range",
     search: "Search products...",
     allCategories: "All Categories",
     allPrices: "All Prices",
@@ -43,6 +45,8 @@ export const translations = {
     brandName: "Urban Threads",
     descBrandName:
       "Descubra a elegância atemporal com nossa coleção selecionada de roupas e acessórios premium.",
+    category: "Categoria",
+    priceRange: "Faixa de Preço",
     search: "Buscar produtos...",
     allCategories: "Todas as Categorias",
     allPrices: "Todos os Preços",

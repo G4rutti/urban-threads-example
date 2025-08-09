@@ -43,7 +43,7 @@ export default function ProductFilters({
 
         <div>
           <label className="block text-sm font-medium text-foreground mb-2">
-            Category
+            {t.category}
           </label>
           <select
             value={categoryFilter}
@@ -61,7 +61,7 @@ export default function ProductFilters({
 
         <div>
           <label className="block text-sm font-medium text-foreground mb-2">
-            Price Range
+            {t.priceRange}
           </label>
           <select
             value={priceFilter}

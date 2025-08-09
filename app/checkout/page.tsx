@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useApp } from "@/contexts/AppContext";
@@ -17,6 +17,17 @@ export default function Checkout() {
     address: "",
     paymentMethod: "creditCard",
   });
+
+  useEffect(() => {
+    if (state.cart.length === 0) {
+      router.push("/cart");
+    }
+  }, [state.cart.length, router]);
+
+  if (state.cart.length === 0) {
+    return null;
+  }
+
 
   const total = state.cart.reduce(
     (sum, item) => sum + item.product.price * item.quantity,
