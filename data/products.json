@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ut-001",
+    "name_en": "Velvet Buttoned Coat",
+    "name_pt": "Casaco de Veludo com Botões",
+    "price": 84.99,
+    "category_en": "Outerwear",
+    "category_pt": "Casacos",
+    "image": "https://static.zara.net/assets/public/d95b/34f3/bdfc4253ab56/1480bbb84385/05070660720-e1/05070660720-e1.jpg?ts=1741335419744&w=800",
+    "image_alt": "https://static.zara.net/assets/public/f639/acd6/c74d424eb3d0/3907aee128c6/05070960720-a1/05070960720-a1.jpg?ts=1726824478159&w=800"
+  },
+  {
+    "id": "ut-002",
+    "name_en": "Cotton Poplin Shirt",
+    "name_pt": "Camisa de Popeline Algodão",
+    "price": 89.99,
+    "category_en": "Shirts",
+    "category_pt": "Camisas",
+    "image": "https://cdn-images.farfetch-contents.com/29/93/98/87/29939887_59054449_2048.jpg",
+    "image_alt": "https://cdn-images.farfetch-contents.com/29/93/98/87/29939887_59054444_1000.jpg"
+  },
+  {
+    "id": "ut-003",
+    "name_en": "Silk Satin Midi Dress",
+    "name_pt": "Vestido Midi Cetim de Seda",
+    "price": 199.99,
+    "category_en": "Dresses",
+    "category_pt": "Vestidos",
+    "image": "https://www.prada.com/content/dam/pradabkg_products/P/P3P/P3P84/15VRF0324/P3P84_15VR_F0324_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+    "image_alt": "https://www.prada.com/content/dam/pradabkg_products/P/P3P/P3P84/15VRF0324/P3P84_15VR_F0324_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    "id": "ut-004",
+    "name_en": "High-Waist Wide Leg Pants",
+    "name_pt": "Calça Pantalona Cintura Alta",
+    "price": 135.0,
+    "category_en": "Pants",
+    "category_pt": "Calças",
+    "image": "https://www.prada.com/content/dam/pradabkg_products/P/P23/P230I/11A6F0008/P230I_11A6_F0008_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+    "image_alt": "https://www.prada.com/content/dam/pradabkg_products/P/P23/P230I/11A6F0008/P230I_11A6_F0008_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg"
+  },
+  {
+    "id": "ut-005",
+    "name_en": "Linen Button-Down Shirt",
+    "name_pt": "Camisa de Linho com Botões",
+    "price": 84.99,
+    "category_en": "Tops",
+    "category_pt": "Blusas",
+    "image": "https://thumb.braavo.me/birden/1000/516536284.webp",
+    "image_alt": "https://thumb.braavo.me/birden/1000/1794200084.webp"
+  },
+  {
+    "id": "ut-006",
+    "name_en": "Minimalist Leather Tote",
+    "name_pt": "Bolsa Tote de Couro Minimalista",
+    "price": 169.99,
+    "category_en": "Bags",
+    "category_pt": "Bolsas",
+    "image": "https://acdn-us.mitiendanube.com/stores/003/277/373/products/dr-martens-weekender-bag-1-051683b413a8b93e9017380769445062-1024-1024.webp",
+    "image_alt": "https://acdn-us.mitiendanube.com/stores/003/277/373/products/ad108001-93ed15905b9dc1e3cf17420726262766-1024-1024.webp"
+  },
+  {
+    "id": "ut-007",
+    "name_en": "Merino Wool Rollneck",
+    "name_pt": "Gola Alta de Lã Merino",
+    "price": 104.99,
+    "category_en": "Knitwear",
+    "category_pt": "Malhas",
+    "image": "https://oscarjacobson-290350989.imgix.net/client/dynamic/images/2726_Oscar-Jacobson_Cole-Rollneck_Brown_65028023_519_front-custom.jpg?w=1080&q=75&auto=format&format=compress",
+    "image_alt": "https://oscarjacobson-290350989.imgix.net/client/dynamic/images/2726_Oscar-Jacobson_Cole-Rollneck_519-Brown_65028023_519_List-custom.jpg?w=1080&q=75&auto=format&format=compress"
+  },
+  {
+    "id": "ut-008",
+    "name_en": "Denim High-Rise Jeans",
+    "name_pt": "Jeans Cintura Alta",
+    "price": 120.0,
+    "category_en": "Jeans",
+    "category_pt": "Jeans",
+    "image": "https://static.zara.net/assets/public/070e/6c3c/b3fe4e859173/513c12eb660c/08727840800-e1/08727840800-e1.jpg?ts=1753882855066&w=750",
+    "image_alt": "https://static.zara.net/assets/public/8ccf/aa00/75b24e6495c5/1932f50f5820/08727840800-p/08727840800-p.jpg?ts=1754645207584&w=1024"
+  },
+  {
+    "id": "ut-009",
+    "name_en": "Satin Slip Dress",
+    "name_pt": "Vestido Slip de Cetim",
+    "price": 155.0,
+    "category_en": "Dresses",
+    "category_pt": "Vestidos",
+    "image": "https://static.zara.net/assets/public/566a/a2d3/1abb45f1b2e7/176c2d716bb8/05919611500-e2/05919611500-e2.jpg?ts=1753108203459&w=750",
+    "image_alt": "https://static.zara.net/assets/public/4141/a50d/7b5947148988/a054e3c30c27/05919611500-a1/05919611500-a1.jpg?ts=1753097255257&w=1125"
+  },
+  {
+    "id": "ut-010",
+    "name_en": "Tailored Structured Blazer",
+    "name_pt": "Blazer Estruturado Sob Medida",
+    "price": 210.0,
+    "category_en": "Outerwear",
+    "category_pt": "Casacos",
+    "image": "https://static.zara.net/assets/public/957f/14d9/537d4247a139/db456850538f/04410400052-e1/04410400052-e1.jpg?ts=1753719376729&w=800",
+    "image_alt": "https://static.zara.net/assets/public/ed0c/f0b1/c0d24a9b91b7/6d0583a95476/04410400052-a1/04410400052-a1.jpg?ts=1753720769701&w=1125"
+  },
+  {
+    "id": "ut-011",
+    "name_en": "Cashmere Wool Scarf",
+    "name_pt": "Echarpe de Lã Cashmere",
+    "price": 75.0,
+    "category_en": "Accessories",
+    "category_pt": "Acessórios",
+    "image": "https://johnstonsofelgin.com/cdn/shop/files/WA56KU0542NATURALMACKELLAR.webp?v=1746181393&width=800",
+    "image_alt": "https://johnstonsofelgin.com/cdn/shop/files/WA000056_KU0542-NATURAL_MACKELLAR_5_RT.jpg?v=1750764105&width=800"
+  },
+  {
+    "id": "ut-012",
+    "name_en": "Organic Cotton T-Shirt",
+    "name_pt": "Camiseta Algodão Orgânico",
+    "price": 48.0,
+    "category_en": "Tops",
+    "category_pt": "Blusas",
+    "image": "https://www.taylorstitch.com/cdn/shop/files/instock_m_q325_organic_cotton_tee_white_portrait_001.jpg?crop=center&format=pjpg&height=2000&v=1751401488&width=1600",
+    "image_alt": "https://www.taylorstitch.com/cdn/shop/files/instock_m_q325_organic_cotton_tee_white_portrait_003.jpg?crop=center&format=pjpg&height=2000&v=1751401488&width=1600"
+  }
+]
